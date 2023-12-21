@@ -27,10 +27,6 @@ python3 run.py https://store.steampowered.com/wishlist/id/YourSteamID
 
 Replace `YourSteamID` with your actual Steam ID.
 
-## Note
-
-This script is dependent on the structure of the web pages it accesses (Steam and PC Game Pass). If these structures change, the script may need to be updated.
-
 ## Disclaimer
 
 This script is for educational purposes only. Make sure to use it responsibly and in accordance with the terms of service of Steam and PC Game Pass.
