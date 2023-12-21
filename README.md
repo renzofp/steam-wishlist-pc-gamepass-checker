@@ -16,12 +16,14 @@ The script takes a Steam wishlist URL as input and fetches the names of all game
 
 Before running the script, ensure you have Python 3 installed on your system. You can install the required Python packages using:
 
+pip install beautifulsoup4 requests
+
 ## Usage
 
 To use the script, run it from the command line with your Steam wishlist URL as an argument
 
 ## Example
-python run.py https://store.steampowered.com/wishlist/id/YourSteamID
+python3 run.py https://store.steampowered.com/wishlist/id/YourSteamID
 
 Replace `YourSteamID` with your actual Steam ID.
 
