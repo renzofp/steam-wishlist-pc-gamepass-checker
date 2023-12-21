@@ -1,4 +1,4 @@
-# steam-wishlist-pc-game-pass-checker
+# steam-wishlist-pc-gamepass-checker
 
 This script checks games from a user's Steam wishlist to see if they are available on PC Game Pass.
 
