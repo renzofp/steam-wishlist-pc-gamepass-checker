@@ -18,14 +18,10 @@ Before running the script, ensure you have Python 3 installed on your system. Yo
 
 ## Usage
 
-To use the script, run it from the command line with your Steam wishlist URL as an argument:
-
-pip install beautifulsoup4 requests
-
-Replace `script_name.py` with the actual name of your script.
+To use the script, run it from the command line with your Steam wishlist URL as an argument
 
 ## Example
-python script_name.py https://store.steampowered.com/wishlist/id/YourSteamID
+python run.py https://store.steampowered.com/wishlist/id/YourSteamID
 
 Replace `YourSteamID` with your actual Steam ID.
 
